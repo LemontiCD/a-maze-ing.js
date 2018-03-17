@@ -1,5 +1,5 @@
 class InputEngine {
-  
+    
     constructor() {
         
         // Definitions of ASCII codes to string values for readability
